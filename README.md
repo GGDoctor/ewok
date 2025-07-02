@@ -22,4 +22,4 @@ DO NOT run "npm audit fix --force" it will break the dependencies.
 <br>
 In a seperate command promt naviage to "../ewok/ui" and run the program using "npm run build" or "npm start" to run the ui portion of the project
 <br>
-All credit to the origional creator of this program.
+### All credit to the origional creator of this program.
